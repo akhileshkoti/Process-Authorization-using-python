@@ -16,6 +16,8 @@ or you can download the zip file [here](https://github.com/akhileshkoti/Process-
 - Run the input.py file that prompts to enter the names of the processes that you want to restrict.
 
 - **Note:**
+  - Use **`tasklist`** command in cmd to know the process names.
+  - Input the process names with extensions (cmd.exe, python.exe etc.,).
   - **Use "q" when you are done with the input.**
 
 ### Running the script on startup
